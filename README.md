@@ -45,13 +45,3 @@ Edit character sets in passwordGenerator to add or remove specific characters.
 Contributing
 Feel free to fork the project, submit issues, or make pull requests for improvements.
 
-License
-This project is open-source and available under the MIT License.
-
-
-
-
-
-
-You said:
-
