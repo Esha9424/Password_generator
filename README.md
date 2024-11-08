@@ -6,25 +6,8 @@ Dynamic Password Generation: Generates passwords based on selected options.
 Customizable Length: Adjust the password length from 6 to 100 characters.
 Number & Special Character Options: Toggle options to include numbers and special characters.
 Clipboard Copy: One-click button to copy the password to the clipboard.
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/password-generator.git
-Navigate into the project folder:
-bash
-Copy code
-cd password-generator
-Install dependencies:
-bash
-Copy code
-npm install
-Usage
-Start the development server:
-bash
-Copy code
-npm start
-Open http://localhost:3000 in your browser to view the app.
+
+
 Code Overview
 useState: Manages states for password length, inclusion of numbers, and special characters.
 useRef: References the password input for easy clipboard copying.
